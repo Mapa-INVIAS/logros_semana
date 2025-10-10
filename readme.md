@@ -1,1 +1,1 @@
-# Se montaran los informes por mes de cada equipo de trabajo.
+# Se montaran los informes por mes de cada equipo de trabajo
